@@ -20,3 +20,8 @@ OCS Alpha Arid
 
 OCS Alpha Snow
 ![OCS Alpha Snow](Alpha/snow.png)
+
+## Contributing
+
+This repository is open for pull requests. Simply branch this repository and create another directory in the top level
+for your contributed camo. All camo series submitted must have 4 versions (Transitional, Forest, Arid, Snow).
