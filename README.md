@@ -5,7 +5,9 @@ Open source camouflage
 
 Resources: A collection of open source natural textures
 
-Alpha: An open source camouflage series with transitional, forest, arid, and snow versions
+Alpha: An open source camouflage series
+
+Beta: An open source camouflage series
 
 ## Alpha
 
@@ -20,6 +22,20 @@ OCS Alpha Arid
 
 OCS Alpha Snow
 ![OCS Alpha Snow](Alpha/snow.png)
+
+## Alpha
+
+OCS Beta Transitional
+![OCS Beta Transitional](Beta/transitional.png)
+
+OCS Beta Forest
+![OCS Beta Forest](Beta/forest.png)
+
+OCS Beta Arid
+![OCS Beta Arid](Beta/arid.png)
+
+OCS Beta Snow
+![OCS Beta Snow](Beta/snow.png)
 
 ## Contributing
 
