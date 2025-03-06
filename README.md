@@ -23,7 +23,7 @@ OCS Alpha Arid
 OCS Alpha Snow
 ![OCS Alpha Snow](Alpha/snow.png)
 
-## Alpha
+## Beta
 
 OCS Beta Transitional
 ![OCS Beta Transitional](Beta/transitional.png)
@@ -36,6 +36,20 @@ OCS Beta Arid
 
 OCS Beta Snow
 ![OCS Beta Snow](Beta/snow.png)
+
+## Gamma
+
+OCS Gamma Transitional
+![OCS Gamma Transitional](Gamma/transitional.png)
+
+OCS Gamma Forest
+![OCS Gamma Forest](Gamma/forest.png)
+
+OCS Gamma Arid
+![OCS Gamma Arid](Gamma/arid.png)
+
+OCS Gamma Snow
+![OCS Gamma Snow](Gamma/snow.png)
 
 ## Contributing
 
