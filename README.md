@@ -5,9 +5,7 @@ Open source camouflage
 
 Resources: A collection of open source natural textures
 
-Alpha: An open source camouflage series
-
-Beta: An open source camouflage series
+Alpha, Beta, Gamma: Open source camouflage series
 
 ## Alpha
 
